@@ -15,9 +15,9 @@ Then write queries to answer the proposed questions.
 
 - *ERD.md*: An Entity Relational Diagram that was created based on an example database using Miro.
 
-- *Create_database.md*: This file contains the code that creates the entity sets using psql.
+- *Create_database.sql*: This file contains the code that creates the entity sets using psql.
 
-- *Problem_solution.md*: Answer potenial questions users may have using our databse.
+- *Problem_solution.sql*: Answer potenial questions users may have using our databse.
 
 - *Reflection.md*: Refleating on the process creating and analyzing the database.
 
