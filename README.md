@@ -10,7 +10,7 @@ Then write queries to answer the proposed questions.
 
 
 
-## The repo contains:
+## The repo contains
 - *Project_Introduction.md*: A basic introduction to the project considering the business scenario, data security, time complexity, and other information.
 
 - *ERD.md*: An Entity Relational Diagram that was created based on an example database using Miro.
