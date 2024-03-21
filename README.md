@@ -22,8 +22,7 @@ Then write queries to answer the proposed questions.
 - Reflection.md: Refleating on the process creating and analyzing the database.
 
 
-This project is associated with INFO 330 Databases And Data Modeling at the University of Washington.
-
-
 ## Acknowledgements
-Other members who contributed to this project: Ali Amezcua-Toscano, Aryan Shah, Asma Masude.
+Members who contributed to this project: Ali Amezcua-Toscano, Aryan Shah, Asma Masude.
+
+This project is associated with INFO 330 Databases And Data Modeling at the University of Washington.
