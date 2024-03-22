@@ -1,5 +1,5 @@
 # Airbnb-Data-Modeling 
-The project focuses on creating, modifying, and analyzing a relational database. 
+The project focuses on creating, modifying, and analyzing a relational database using **_psql_** data language.
 
 Our group designed a relational database schema to store listings, reviews, neighborhoods, bookings, and revenue-related data. Normalize the database to minimize data redundancy and improve data integrity.
 
